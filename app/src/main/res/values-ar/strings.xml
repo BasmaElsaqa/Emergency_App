@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">تطبيق الطوارئ</string>
+    <string name="child">نجدة الاطفال</string>
+    <string name="fire">مطافي</string>
+    <string name="police">شرطة</string>
+    <string name="exit">الخروج؟</string>
+    <string name="do_you_want_to_exit">هل تريد الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="cancel">الغاء</string>
+
+</resources>
