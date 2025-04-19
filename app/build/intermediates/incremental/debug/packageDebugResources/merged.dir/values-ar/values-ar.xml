@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الطوارئ</string>
+    <string name="cancel">الغاء</string>
+    <string name="child">نجدة الاطفال</string>
+    <string name="do_you_want_to_exit">هل تريد الخروج؟</string>
+    <string name="exit">الخروج؟</string>
+    <string name="fire">مطافي</string>
+    <string name="police">شرطة</string>
+    <string name="yes">نعم</string>
+</resources>

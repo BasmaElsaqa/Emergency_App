@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable child
+drawable fire
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable police
+id image
+id main
+id parent
+id rv
+id tv
+layout activity_main
+layout emergency_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string cancel
+string child
+string do_you_want_to_exit
+string exit
+string fire
+string police
+string yes
+style Base.Theme.EmergencyApp
+style Theme.EmergencyApp
+xml backup_rules
+xml data_extraction_rules

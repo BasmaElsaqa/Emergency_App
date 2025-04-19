@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Emergency App</string>
+    <string name="cancel">cancel</string>
+    <string name="child">Child Rescue</string>
+    <string name="do_you_want_to_exit">Do you want to exit?</string>
+    <string name="exit">Exit?</string>
+    <string name="fire">Fire Truck</string>
+    <string name="police">Police</string>
+    <string name="yes">yes</string>
+    <style name="Base.Theme.EmergencyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EmergencyApp" parent="Base.Theme.EmergencyApp"/>
+</resources>
