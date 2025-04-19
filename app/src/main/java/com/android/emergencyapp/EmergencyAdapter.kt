@@ -10,6 +10,7 @@ import androidx.cardview.widget.CardView
 import androidx.core.net.toUri
 import androidx.recyclerview.widget.RecyclerView
 
+
 class EmergencyAdapter(
     private val activity: Activity,
     private val emergencies: ArrayList<Emergency>
